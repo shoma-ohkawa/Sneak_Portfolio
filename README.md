@@ -2,7 +2,7 @@
 
 影に潜り、敵の視界を避けながら宝物を盗み、脱出を目指す、チーム制作のステルスアクションです(Unreal Engine 5)。
 
-ポートフォリオ用に、自分が書いた、または修正したソースを公開するリポジトリです。ソースは `Source/` にあります。ゲーム全体のソースは、[チーム制作のリポジトリ](https://github.com/dai278/StealthAction_Git)を参照してください。
+ポートフォリオ用に、自分が書いた、または修正したソースを公開するリポジトリです。ソースは `Source/`、実行データは [Releases](https://github.com/shoma-ohkawa/Sneak_Portfolio/releases) の zip です。
 
 ## 制作情報
 
@@ -92,6 +92,31 @@ Unreal Editor で実行(Play In Editor)した画面です。影に入ると、�
 - Enhanced Input
 - Git / Git LFS
 
+## 実行データ
+
+[Releases](https://github.com/shoma-ohkawa/Sneak_Portfolio/releases) から `Sneak_Build.zip`(約 636 MB)をダウンロードし、解凍して `Sneak\StealthAction.exe` を起動します。
+
+チームで制作したゲーム全体の、Windows 向けのビルド(Shipping)です。
+
+## 実行環境
+
+- Windows 11
+- DirectX 12 に対応した GPU(このプロジェクトの既定の描画は DirectX 12 です)
+- 起動しないときは、zip の中の `Sneak\Engine\Extras\Redist\en-us\vc_redist.x64.exe`(Visual C++ の再頒布可能パッケージ)をインストールしてください。
+- キーボード・マウス、または XInput コントローラーで遊べます。
+
+## 操作方法
+
+| 操作 | キーボード・マウス | XInput コントローラー |
+|---|---|---|
+| 移動 | W / A / S / D | 左スティック |
+| カメラ操作 | マウス、矢印キー(マウス推奨) | 右スティック |
+| 影潜り・解除 | F | LT |
+| ダッシュ | Shift | RT |
+| しゃがみ | Ctrl | X |
+| 攻撃・スニークキル | マウス左クリック | RB |
+| インタラクト | E | A |
+
 ## Source について
 
 載せているのは、**自分が書いた、または修正したソースだけ**です。ゲーム全体(アセット、マップ、ほかのクラス)は入っていないため、このリポジトリだけではビルドできません。
@@ -131,4 +156,4 @@ Unreal Editor で実行(Play In Editor)した画面です。影に入ると、�
 ## リンク
 
 - [プレイ動画(Google Drive)](https://drive.google.com/file/d/1hO3ireUyzyyQeZPExDxrKaMpDCBVQf5i/view?usp=sharing)
-- [チーム制作のリポジトリ(ゲーム全体)](https://github.com/dai278/StealthAction_Git)
+- 実行データ: [Releases](https://github.com/shoma-ohkawa/Sneak_Portfolio/releases)
