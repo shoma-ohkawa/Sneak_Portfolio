@@ -31,11 +31,11 @@
 
 Unreal Editor で実行(Play In Editor)した画面です。影に入ると、画面の周辺が暗くなり、視野が狭まります。この効果は、私が担当しました。
 
-<!--
-プレイ動画が用意できたら、このコメントを外します。
+### プレイ動画
 
-プレイ動画: (リンクを入れる)
--->
+[プレイ動画(Google Drive、2 分 30 秒)](https://drive.google.com/file/d/1hO3ireUyzyyQeZPExDxrKaMpDCBVQf5i/view?usp=sharing)
+
+チームで制作したゲーム全体のプレイ動画です。タイトルから、ステルスで進み、脱出するまでを録画しています。影に入ると画面の周辺が暗くなる効果も映っています。
 
 ## 担当内容
 
@@ -131,4 +131,5 @@ Unreal Editor で実行(Play In Editor)した画面です。影に入ると、�
 
 ## リンク
 
+- [プレイ動画(Google Drive)](https://drive.google.com/file/d/1hO3ireUyzyyQeZPExDxrKaMpDCBVQf5i/view?usp=sharing)
 - [チーム制作のリポジトリ(ゲーム全体)](https://github.com/dai278/StealthAction_Git)
