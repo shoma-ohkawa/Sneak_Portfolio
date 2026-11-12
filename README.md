@@ -33,9 +33,9 @@ Unreal Editor で実行(Play In Editor)した画面です。影に入ると、�
 
 ### プレイ動画
 
-[プレイ動画(Google Drive、2 分 30 秒)](https://drive.google.com/file/d/1hO3ireUyzyyQeZPExDxrKaMpDCBVQf5i/view?usp=sharing)
+[プレイ動画(Google Drive、2 分 37 秒)](https://drive.google.com/file/d/1hO3ireUyzyyQeZPExDxrKaMpDCBVQf5i/view?usp=sharing)
 
-チームで制作したゲーム全体のプレイ動画です。タイトルから、ステルスで進み、脱出するまでを録画しています。影に入ると画面の周辺が暗くなる効果も映っています。
+チームで制作したゲーム全体のプレイ動画です。タイトルから、ステルスで進み、脱出するまでを録画しています。
 
 ## 担当内容
 
