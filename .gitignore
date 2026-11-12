@@ -1,0 +1,25 @@
+# ポートフォリオ用リポジトリの .gitignore(AimRacing2026_Portfolio と同じ方針)
+
+# Unreal Engine のビルド・生成物
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+
+# 実行データ・ログ
+*.zip
+*.exe
+*.log
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
